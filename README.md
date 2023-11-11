@@ -1,5 +1,3 @@
-# test-repository
-This is test
+# gittest repo
 
-This is a new edit from my local computer.
-This is a second update.
+REDS
